@@ -68,6 +68,8 @@ function uploadTracker() {
                     const budgetTrackerStore = transaction.objectStore('new_budget');
                     // clear all items in your store
                     budgetTrackerStore.clear();
+
+                    alert("All saved transactions have been submitted!");
                 })
                 .catch(err => {
                     // set reference to redirect back here
