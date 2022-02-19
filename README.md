@@ -15,9 +15,12 @@ Clone the repo, install dependiencies, then run "npm start". The User must have 
 ## Usage
 This is what it will look like on your device. 
 
-[Deployed Application]()
+[Deployed Application](https://newbudgetappcreation.herokuapp.com/)
 
-![Budget-Tracker]()
+![Budget-Tracker](./public/images/budgetTracker.png)
 
 ## Contributing
 U of A contributed the Front and Backend code for this project. I added the service-worker.js, Manifest.json, and ibd.js. I also had help from my classmate Jennifer Lucas and my tutor Spencer Creer.
+
+## Questions
+Please checkout my [Github](https://github.com/Nkepers) for other projects.
